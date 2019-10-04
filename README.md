@@ -26,7 +26,7 @@ python setup.py install
 ### PIL.Image decoder
 ```python
 from PIL import Image
-import astc_codec 
+import astc_decomp 
 #needs to be imported once in the active code, so that the codec can register itself
 
 astc_data : bytes
