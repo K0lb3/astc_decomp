@@ -1,0 +1,4 @@
+include astc_dec/astc_decomp.cpp
+include astc_dec/astc_decomp.h
+include astc_decomp.pyx
+include setup.py

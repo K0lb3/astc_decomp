@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Ignored astc_dec in repo language detection
+astc_dec/* linguist-vendored
