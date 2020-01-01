@@ -23,9 +23,6 @@ extensions = [
         include_dirs=[
             "astc_dec"
         ],
-        install_requires=[
-            "cython"
-        ],
     )
 ]
 if cythonize:

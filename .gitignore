@@ -2,6 +2,6 @@
 .idea/*
 build/*
 dist/*
-astc_decomp.cpp
+/astc_decomp.cpp
 astc_decomp.egg-info
 astc_decomp.cp37-*.pyd
